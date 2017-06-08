@@ -1,4 +1,4 @@
-# Servicio de integración con RedBT {style="color: red;"}
+# Servicio de integración con RedBT
 
 ### Introducción
 
